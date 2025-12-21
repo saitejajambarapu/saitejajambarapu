@@ -1,14 +1,10 @@
-<!-- ===================== HERO SECTION ===================== -->
+<!-- ===================== HERO ANIMATION ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=220&section=header&text=Sai%20Teja%20Jambarapu&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=140&text=Sai%20Teja%20Jambarapu&fontSize=42&fontColor=0E75B6&animation=fadeIn" />
 </p>
 
-<h3 align="center">
-Backend Engineer • Java • Spring Boot • Microservices
-</h3>
-
 <p align="center">
-I build scalable backend systems with clean architecture, performance focus, and production discipline.
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Backend+Engineer;Java+%7C+Spring+Boot+%7C+Microservices;Building+Scalable+Production+Systems" />
 </p>
 
 <p align="center">
@@ -27,109 +23,60 @@ I build scalable backend systems with clean architecture, performance focus, and
 
 ## 👨‍💻 About Me
 
-I’m a **Backend Engineer** specializing in **Java and Spring Boot**, currently working on **enterprise-grade production systems**.
+I’m a **Backend Engineer** specializing in **Java and Spring Boot**, working on **enterprise-grade production systems**.
 
-- Designing and optimizing **RESTful APIs**
-- Refactoring legacy code for **performance & maintainability**
-- Handling **database-heavy workflows**
+I focus on:
+- Designing clean, scalable **REST APIs**
+- Optimizing **database-heavy workflows**
+- Refactoring legacy code for performance & maintainability
 - Implementing **secure authentication & authorization**
-- Working with **real users, real data, real constraints**
+- Solving real engineering problems under real constraints
 
 🏆 **Spot Award – Star Performer of the Quarter** for backend performance optimization.
 
 ---
 
-## 🧰 Tech Stack Dashboard
+## ⚙️ Tech Stack — Animated Showcase
 
-### Backend & Architecture
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,kafka" />
+### 🧩 Backend & Architecture
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,kafka&perline=8" />
 </p>
 
-### Databases & Caching
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" />
+### 🗄 Databases & Caching
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&perline=8" />
 </p>
 
-### Frontend (Project Experience)
-<p>
-  <img src="https://skillicons.dev/icons?i=react,angular,js,ts,html,css" />
+### 🎨 Frontend (Project Experience)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,angular,js,ts,html,css&perline=8" />
 </p>
 
-### DevOps & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,aws,postman" />
+### 🚀 DevOps & Tooling
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,aws,postman&perline=8" />
 </p>
 
 ---
 
-## 🚀 Featured Project
-
-### 🎬 Reviewed App — Movie & Series Review Platform
-
-A **backend-driven full-stack project** designed to simulate real product architecture.
-
-🧠 **Backend Engineering Focus**
-- REST API design using Spring Boot (layered architecture)
-- JWT + Refresh Token authentication (Spring Security)
-- Caching strategy to reduce external API calls
-- Clean separation of controller, service, and persistence layers
-
-⚙ **System Thinking**
-- Database-first reads before hitting external APIs
-- Stateless authentication design
-- Optimized queries & response payloads
-
-🛠 **Tech Stack**
-`Java` `Spring Boot` `Spring Security` `MySQL` `React` `OMDb API`
-
-🔗 Repositories  
-- Backend: _(add link)_  
-- Frontend: _(add link)_
-
----
-
-## 📊 Engineering Dashboards
+## 🔁 How My Backend Systems Work (Visual Flow)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saitejajambarapu&show_icons=true&hide_border=true&title_color=0E75B6&icon_color=0E75B6" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saitejajambarapu&hide_border=true&ring=0E75B6&fire=0E75B6" height="165"/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saitejajambarapu&layout=compact&hide_border=true" height="150"/>
-</p>
-
----
-
-## 🧠 Engineering Principles
-
-- Simple > Clever
-- Readability before optimization
-- Measure before tuning
-- Production bugs matter more than demos
-- Security and observability are mandatory
-
----
-
-## 📚 Education & Certifications
-
-- 🎓 B.Tech – Electronics & Communication Engineering
-- 🧠 Scaler – Software Development & Problem Solving  
-  (DSA, LLD, HLD)
-- ☁️ Google Cloud – Associate Data Practitioner
-
----
-
-## 📫 Connect With Me
-
-- 📧 Email: jambarapusaiteja@gmail.com
-- 💼 LinkedIn: _(add link)_
-- 💻 GitHub: https://github.com/saitejajambarapu
-- 🧩 LeetCode: _(add link)_
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0E75B6&height=120&section=footer&text=Building%20Systems%20That%20Scale&fontColor=ffffff"/>
-</p>
+```text
+Client
+  ↓
+API Gateway
+  ↓
+Spring Boot Controllers
+  ↓
+Service Layer (Business Logic)
+  ↓
+JPA / Hibernate
+  ↓
+Database / Cache
+  ↓
+External APIs (only when needed)
