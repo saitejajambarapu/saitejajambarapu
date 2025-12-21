@@ -1,82 +1,51 @@
-<!-- ===================== HERO ANIMATION ===================== -->
+<!-- ===================== HERO BANNER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=140&text=Sai%20Teja%20Jambarapu&fontSize=42&fontColor=0E75B6&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&text=Sai%20Teja%20Jambarapu&fontSize=42&fontAlignY=38&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Backend+Engineer;Java+%7C+Spring+Boot+%7C+Microservices;Building+Scalable+Production+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Backend+Engineer;Java+%7C+Spring+Boot+%7C+Microservices;Building+Scalable+Production+Systems;Performance+%7C+Clean+Architecture+%7C+Security" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/saitejajambarapu">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=saitejajambarapu&style=flat-square&color=blue"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 Who Am I?
 
-I’m a **Backend Engineer** specializing in **Java and Spring Boot**, working on **enterprise-grade production systems**.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212897734-5d77c7f7-61b2-4b7c-bd7b-09a0e49c1a7f.gif" width="420"/>
+</p>
 
-I focus on:
-- Designing clean, scalable **REST APIs**
-- Optimizing **database-heavy workflows**
-- Refactoring legacy code for performance & maintainability
-- Implementing **secure authentication & authorization**
-- Solving real engineering problems under real constraints
+I’m a **Java Backend Engineer** working on **enterprise-grade production systems** using **Spring Boot & Microservices**.
 
-🏆 **Spot Award – Star Performer of the Quarter** for backend performance optimization.
+I care about:
+- Clean architecture
+- Performance under real load
+- Secure backend design
+- Systems that scale without surprises
+
+🏆 **Spot Award – Star Performer of the Quarter** for backend optimization.
 
 ---
 
-## ⚙️ Tech Stack — Animated Showcase
+## ⚙️ Tech Stack (Animated Showcase)
 
-### 🧩 Backend & Architecture
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,kafka&perline=8" />
-</p>
-
-### 🗄 Databases & Caching
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&perline=8" />
-</p>
-
-### 🎨 Frontend (Project Experience)
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,angular,js,ts,html,css&perline=8" />
-</p>
-
-### 🚀 DevOps & Tooling
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,aws,postman&perline=8" />
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,kafka,mysql,postgres,mongodb,redis,react,angular,docker,kubernetes,aws,git&perline=7" />
 </p>
 
 ---
 
-## 🔁 How My Backend Systems Work (Visual Flow)
+## 🧠 How I Build Backends (Visual)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
+  <img src="https://user-images.githubusercontent.com/74038190/212897661-0a7d5bb1-9f9b-4b6c-8a5a-7e84c88c9c9e.gif" width="500"/>
 </p>
 
 ```text
-Client
-  ↓
-API Gateway
-  ↓
-Spring Boot Controllers
-  ↓
-Service Layer (Business Logic)
-  ↓
-JPA / Hibernate
-  ↓
-Database / Cache
-  ↓
-External APIs (only when needed)
+Client → API → Service Layer → DB / Cache → External APIs
+           ↑         ↓
+        Security   Business Logic
