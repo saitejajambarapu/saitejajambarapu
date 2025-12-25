@@ -28,7 +28,7 @@ for backend performance optimization in a critical production system.
 
 ---
 
-## ⚙️ Tech Stack (Visual Showcase)
+## ⚙️ Tech Stack 
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,hibernate,kafka,mysql,postgres,mongodb,redis,react,angular,docker,kubernetes,aws,git&perline=7" />
